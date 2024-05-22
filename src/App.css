@@ -27,7 +27,19 @@
 .App-link {
   color: #61dafb;
 }
-
+.list-item {
+  color: green;
+  font-weight: 700;
+}
+.orange {
+  color: orange;
+}
+.persona{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  color: red;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
